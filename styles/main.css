@@ -1,0 +1,13 @@
+* {
+    user-select: none;
+}
+
+.inputForm {
+    border: 1px solid grey;
+    width: 193px;
+    margin-bottom: 20px;
+}
+
+.horse, .button {
+    margin: 10px;
+}
